@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ugur Yigit ugur_yigit@hotmail.com @ugur_yigit
 
 # THANKS
 
