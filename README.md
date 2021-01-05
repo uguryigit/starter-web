@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2021 Goaltech
+2021 Goaltech. All rights reserved.
